@@ -9,7 +9,7 @@ export default class CustomerNavbar extends React.Component {
       <Navbar default collapseOnSelect>
         <Navbar.Header>
           <Navbar.Brand>
-            <Link to="/">Fumigation</Link>
+            <Link to="/">Hongerow-Fumigation</Link>
           </Navbar.Brand>
           <Navbar.Toggle />
         </Navbar.Header>
@@ -26,8 +26,8 @@ export default class CustomerNavbar extends React.Component {
             >
               About
             </NavItem>
-            <NavItem eventKey={3} componentClass={Link} href="/news" to="/news">
-              News
+            <NavItem eventKey={3} componentClass={Link} href="/services" to="/services">
+              Services
             </NavItem>
           </Nav>
         </Navbar.Collapse>

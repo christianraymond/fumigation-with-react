@@ -1,14 +1,14 @@
 import React, { Component } from "react";
 import { Grid, Row, Col, Image } from "react-bootstrap";
-import "./News.css";
+import "./Services.css";
 
 export default class News extends React.Component {
   render() {
     return (
       <div>
-        <Image src="assets/news-image.jpg" className="header-image" />
+        <Image src="assets/bi-cockroaches.png" className="header-image" />
         <Grid>
-          <h2>News</h2>
+          <h2>Our Services</h2>
           <Row>
             <Col xm={12} sm={8} className="main-section">
               <p>
@@ -26,7 +26,7 @@ export default class News extends React.Component {
               </p>
             </Col>
             <Col xm={12} sm={4} className="sidebar-section" />
-            <Image src="assets/one-news-image.jpg" />
+            <Image src="assets/on-news-image.jpg" />
           </Row>
         </Grid>
       </div>

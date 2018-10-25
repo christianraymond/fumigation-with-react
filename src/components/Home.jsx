@@ -7,14 +7,16 @@ export default class Home extends React.Component {
   render() {
     return (
       <Grid>
+        <h2>Fumigation solution</h2>
         <Jumbotron>
-          <h2>Welcome to Fumigation App</h2>
+          <h3>Aggressive Cockroach-killer dedicated to producing results</h3>
           <p>
-            They say everything looks better with odd numbers of things. But
-            sometimes I put even numbers—just to upset the critics. We'll put
-            some happy little leaves here and there. Absolutely no pressure. You
-            are just a whisper floating across a mountain. You have to make
-            those little noises or it won't work.
+            We are the most solution provider, cockroach killer and all kind of
+            insects including Housefly, Cricket, cockroach and many more Bugs
+            that lives in your home, office, farms and all over the place. With
+            a great Speciality in making our customers happy, making things
+            easier for them, we provide a fumigation service to Bugs killing and
+            all varieties of insects running in your home office, farms, ects
           </p>
           <Link to="/about">
             <Button bsStyle="primary">About</Button>
@@ -37,7 +39,7 @@ export default class Home extends React.Component {
             </p>
           </Col>
           <Col xs={12} sm={4} className="person-wrapper">
-            <Image src="assets/favico.jpg" circle className="profile-pic" />
+            <Image src="assets/fumigating.jpg" className="profile-pic" />
             <h3>Our Mission</h3>
             <p>
               As trees get older they lose their chlorophyll. Just let go - and
@@ -55,10 +57,12 @@ export default class Home extends React.Component {
             />
             <h3>Our Speciality</h3>
             <p>
-              The least little bit can do so much. Follow the lay of the land.
-              It's most important. Be so very light. Be a gentle whisper. That
-              easy. All you have to learn here is how to have fun. Let your
-              imagination be your guide.
+              After many years of expertise in fumigation and eradication of
+              unhealthy homes, offices, farms and many more places,
+              Hongerow-Fumigation been nominated as the accurate and the most
+              solution provider in cockroach killing and all kind of insects
+              including Housefly, Cricket, cockroach and many more Bugs that
+              lives in your home, office, farms and all over the place.
             </p>
           </Col>
         </Row>

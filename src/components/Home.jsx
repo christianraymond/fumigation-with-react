@@ -24,37 +24,32 @@ export default class Home extends React.Component {
         </Jumbotron>
         <Row className="show-grid text-center">
           <Col xs={12} sm={4} className="person-wrapper">
-            <Image
-              src="assets/person-fumigate.jpg"
-              circle
-              className="profile-pic"
-            />
+            <Image src="assets/person-fumigate.jpg" className="profile-pic" />
             <h3>Our Vision</h3>
             <p>
-              This is the time to get out all your frustrations, much better
-              than kicking the dog around the house or taking it out on your
-              spouse. Maybe we got a few little happy bushes here, just covered
-              with snow. Let's put some happy little clouds in our world. It
-              looks so good, I might as well not stop.
+              Dedicated to provide your business, residence with the most
+              effective and ongoing Insects management solution available.
+              supports quality service to eradicate unhealthy environment
+              including (Cockroach Treatment,Red Ants Control, Black Ants
+              Control, Anti-Rat Treatment, and Bed Bugs Treatment to keep your
+              property free from pests throughout a long time period.
             </p>
           </Col>
           <Col xs={12} sm={4} className="person-wrapper">
             <Image src="assets/fumigating.jpg" className="profile-pic" />
             <h3>Our Mission</h3>
             <p>
-              As trees get older they lose their chlorophyll. Just let go - and
-              fall like a little waterfall. You need to have a very firm paint
-              to do this. This is an example of what you can do with just a few
-              things, a little imagination and a happy dream in your heart. When
-              you do it your way you can go anywhere you choose.
+              We have a mission to be the world’s most respected service brand.
+              To do this, we have established a culture that supports our team,
+              so they can provide exceptional service to our customers.
+              <Link to="about" className="text-success"> Hongerow-Fumigation</Link> is an exceptional
+              products and fumigation provider supporting our communities to a
+              healthy living and creating meaningful relationships with those
+              around us.
             </p>
           </Col>
           <Col xs={12} sm={4} className="person-wrapper">
-            <Image
-              src="assets/fumigation-img.jpg"
-              circle
-              className="profile-pic"
-            />
+            <Image src="assets/fumigation-img.jpg" className="profile-pic" />
             <h3>Our Speciality</h3>
             <p>
               After many years of expertise in fumigation and eradication of

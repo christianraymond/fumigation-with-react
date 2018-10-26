@@ -6,28 +6,29 @@ export default class News extends React.Component {
   render() {
     return (
       <div>
-        <Image src="assets/bi-cockroaches.png" className="header-image" />
         <Grid>
-          <h2>Our Services</h2>
           <Row>
+            <h4>Cockroach Management Services</h4>
             <Col xm={12} sm={8} className="main-section">
               <p>
-                You can spend all day playing with mountains. Let all these
-                little things happen. Don't fight them. Learn to use them. At
-                home you have unlimited time. You can create beautiful things -
-                but you have to see them in your mind first. If you hypnotize
-                it, it will go away. Don't fight it, use what happens. It takes
-                dark in order to show light. I was blessed with a very steady
-                hand; and it comes in very handy when you're doing these little
-                delicate things. Take your time. Speed will come later. There is
-                no right or wrong - as long as it makes you happy and doesn't
-                hurt anyone. There we go. This is where you take out all your
-                hostilities and frustrations.
+                Cockroach Management Services provides protection against
+                crawling insects such as cockroaches, Black ants, Red ants,
+                spiders, Psocids and silver fish. Crawling pests can be found
+                anywhere, be it Homes, Offices, Hotels, Restaurants, Hospitals,
+                Factories, Etc. For every cockroach you see, there are a hundred
+                hidden. Not only do they contaminate food and utensils but
+                readily spread disease causing organisms leading to dysentery,
+                diarrhea, food poisoning and asthma. They also leave dark stains
+                and foul odors leading to very unpleasant and unhygienic
+                conditions. For Cockroach Management Services, We use our most
+                automatic no resistance product which leads to few seconds
+                results.
               </p>
             </Col>
             <Col xm={12} sm={4} className="sidebar-section" />
             <Image src="assets/on-news-image.jpg" />
           </Row>
+          <Image src="assets/small-Cockroach.jpg" className="header-image" />
         </Grid>
       </div>
     );

@@ -30,10 +30,10 @@ export default class About extends React.Component {
               solution provider in cockroach killing and all kind of insects
               including Housefly, Cricket, cockroach and many more Bugs that
               lives in your home, office, farms and all over the place. With a
-              great specialty in making our customers happy, making things
+              great speciality in making our customers happy, making things
               easier to a best healthy home, we provide a fumigation service to
               Bugs killing and all varieties of insects running in your home
-              office, farms. According to the recent news, Hongerow-Fumigation
+              office, farms... According to the recent news, Hongerow-Fumigation
               has been appointed as a pioneer Cockroach-Killer Specialist.
             </p>
           </Col>

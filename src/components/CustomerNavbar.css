@@ -35,9 +35,11 @@ nav.navbar,
     color: white;
     background-color: transparent;
 }
-
+.navbar-brand a{
+    color: white;
+}
 .navbar-default .navbar-nav>li>a:focus,
 .navbar-default .navbar-nav>li>a:hover {
     color: white;
-    background-color: transparent
+    background-color: transparent;
 }

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import convert from './converter'
-import log from './logger'
+// import log from './logger'
 import PropTypes from 'prop-types'
 import {BrowserRouter as Router, Route} from 'react-router-dom'
 

@@ -1,6 +1,6 @@
 nav.navbar,
 .navbar-default {
-    background-color: #2892D7 !important;
+    background-color: #4267b2 !important;
 }
 
 .navbar-default {
@@ -35,9 +35,11 @@ nav.navbar,
     color: white;
     background-color: transparent;
 }
-.navbar-brand a{
-    color: white;
+
+.navbar-brand a {
+    color: aqua;
 }
+
 .navbar-default .navbar-nav>li>a:focus,
 .navbar-default .navbar-nav>li>a:hover {
     color: white;

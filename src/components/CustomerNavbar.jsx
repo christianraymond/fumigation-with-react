@@ -12,7 +12,7 @@ export default class CustomerNavbar extends React.Component {
         <Navbar.Header>
           <Navbar.Brand>
             <Link to="/">Hongerow-Fumigation</Link>{" "}
-            <FontAwesomeIcon icon={["fab", "apple"]} size="1x" pull="right"/>
+            <FontAwesomeIcon icon={["fab", "mobile-alt"]} size="1x" pull="right"/>
           </Navbar.Brand>
           <Navbar.Toggle />
         </Navbar.Header>
